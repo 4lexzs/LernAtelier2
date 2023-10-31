@@ -28,3 +28,8 @@ Heute habe ich alle meine Ziele erreicht, ich habe heute gemerkt das ich mich mi
 
 ## Reflexion 31.10.2023
 
+Heute habe ich gut gearbeite, ich habe alle meine Arbeitpakete fertig geschafft. Ich war noch nie so Konzentriert und habe deshalb sogar ein bisschen mehr gemacht als das was ich eigentlich für
+heute geplant hatte.
+
+## Arbeitspaket 07.11.2023
+
