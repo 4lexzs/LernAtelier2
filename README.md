@@ -22,6 +22,9 @@ Heute habe ich alle meine Ziele erreicht, ich habe heute gemerkt das ich mich mi
 
 ##  Arbeitspaket 31.10.2023
 
-- [ ] Züfällige Zahl zwische mindest. und maximum (zbs. 1-100)
-- [ ] Den Benutzer bieten, eine Zahl einzugeben, und überprüfen Sie, ob die Eingabe eine gültige ganze Zahl ist und im richtigen Bereich liegt.
-- [ ] sicher stellen, dass eine Schleife hinzugefügt wurde, um dem Benutzer mehrere Versuche zu ermöglichen, die richtige Zahl zu erraten.
+- [X] Züfällige Zahl zwische mindest. und maximum (zbs. 1-100)
+- [X] Den Benutzer bieten, eine Zahl einzugeben, und überprüfen Sie, ob die Eingabe eine gültige ganze Zahl ist und im richtigen Bereich liegt.
+- [X] sicher stellen, dass eine Schleife hinzugefügt wurde, um dem Benutzer mehrere Versuche zu ermöglichen, die richtige Zahl zu erraten.
+
+## Reflexion 31.10.2023
+
