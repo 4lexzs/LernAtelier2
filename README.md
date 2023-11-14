@@ -40,5 +40,14 @@ Heute bin ich sehr weit mit miene E-Portfolios gekommen, ich werde sicher morgen
 
 ## Arbeitpaket 14.11.2023
 
-- [ ] Programmier Projekt (Modul 319)
+- [X] Programmier Projekt (Modul 319)
 - [ ] Wenn möglich an mein Persönlicher Projekt fertig machen.
+
+## Reflexion 14.11.2023
+heute habe ich das gefühl das ich gut gearbeitet habe, wir sind etwas weit gekommen bei unserem Projrkt aber nächstes mal haben wir
+abgemacht das wir nur am Projekt arbeiten damit wir schneller fertig werden
+
+## Arbeitspaket 21.11.2023
+
+- [ ] Programmieren am Projekt 319
+
