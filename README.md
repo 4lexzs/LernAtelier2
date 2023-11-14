@@ -32,4 +32,13 @@ Heute habe ich gut gearbeite, ich habe alle meine Arbeitpakete fertig geschafft.
 heute geplant hatte.
 
 ## Arbeitspaket 07.11.2023
+- [X] An E-Portfolios arbeiten (den ganzen Tag)
 
+## Reflexion 07.11.2023
+
+Heute bin ich sehr weit mit miene E-Portfolios gekommen, ich werde sicher morgen fertig.
+
+## Arbeitpaket 14.11.2023
+
+- [ ] Programmier Projekt (Modul 319)
+- [ ] Wenn möglich an mein Persönlicher Projekt fertig machen.
