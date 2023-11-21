@@ -57,3 +57,7 @@ Wir sind heute sehr gut voran gekommen, und haben schon ein Code erstellen könn
 
 ![image](https://github.com/4lexzs/LernAtelier2/assets/142885309/43481e08-de5b-44ad-9b30-83d6b5cde148)
 
+## Arbeitspakete 28.11.2023
+
+- [ ] WIeder am Projekt Arbeiten
+
