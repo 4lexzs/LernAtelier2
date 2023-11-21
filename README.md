@@ -49,5 +49,11 @@ abgemacht das wir nur am Projekt arbeiten damit wir schneller fertig werden
 
 ## Arbeitspaket 21.11.2023
 
-- [ ] Programmieren am Projekt 319
+- [X] Programmieren am Projekt 319
+
+## Reflexion 21.11.2023
+
+Wir sind heute sehr gut voran gekommen, und haben schon ein Code erstellen können.
+
+![image](https://github.com/4lexzs/LernAtelier2/assets/142885309/43481e08-de5b-44ad-9b30-83d6b5cde148)
 
