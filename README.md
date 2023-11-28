@@ -59,5 +59,12 @@ Wir sind heute sehr gut voran gekommen, und haben schon ein Code erstellen könn
 
 ## Arbeitspakete 28.11.2023
 
-- [ ] WIeder am Projekt Arbeiten
+- [X] Wieder am Projekt Arbeiten
 
+## Reflexion 28.11.2023
+
+WIr sind realtiv weit mit dem Code gekommen und sind möglicher weisse am Freitag fertig, also ist es nicht mehr nötig das wir nächste Woche am Projekt arbeiten.
+
+## Arbeitpaket 05.12.2023
+
+- [ ] Weiter mein Code Programieren(fertig werden)
