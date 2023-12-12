@@ -68,3 +68,17 @@ WIr sind realtiv weit mit dem Code gekommen und sind möglicher weisse am Freita
 ## Arbeitpaket 05.12.2023
 
 - [ ] Weiter mein Code Programieren(fertig werden)
+
+## Reflexion 05.12.2023
+
+Cih konnte mein Projekt nicht fertig machen da ich am Adventkalender gearbeitet habe.
+
+## Arbeitpaket 12.12.2023
+
+- [X] An Dokumentation für Projekt arbeiten (Modul 319)
+
+## Reflexion 12.12.2023
+
+Wir sind fast fertig mit der Dokumentation und wird müssen es bis morgen abgeben.
+
+
